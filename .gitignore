@@ -1,0 +1,5 @@
+*.obj
+*.json
+*.exe
+*.res
+.vscode
