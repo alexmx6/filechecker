@@ -1,11 +1,11 @@
 # File checker
 This is a simple implementation of file checks using sha hash algorithm.
-* UTF-8 support.
+* UTF-8 support
 * Recursive search
 * File statuses
 
 ## File statuses
-Currently this program supports 5 status types
+Currently this program supports 5 status types.
 1. Added
 2. Removed
 3. Renamed
